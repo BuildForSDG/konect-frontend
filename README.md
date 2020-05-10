@@ -1,7 +1,6 @@
 # konect-frontend
 
 ## Getting Started
----
 ```
 # Clone this repo
 $ git clone https://github.com/BuildForSDG/konect-frontend.git
